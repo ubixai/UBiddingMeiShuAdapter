@@ -1,0 +1,6 @@
+framework module UBiddingMeiShuAdapter {
+  umbrella header "UBiddingMeiShuAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
